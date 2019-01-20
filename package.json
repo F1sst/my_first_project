@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/F1sst/my_first_project/issues"
   },
-  "homepage": "https://github.com/F1sst/my_first_project#readme"
+  "homepage": "https://github.com/F1sst/my_first_project#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
